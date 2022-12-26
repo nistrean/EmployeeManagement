@@ -8,8 +8,6 @@ import com.utm.EmployeeManagement.repository.DepartmentRepository;
 import com.utm.EmployeeManagement.service.DepartmentService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-
-import java.io.NotActiveException;
 import java.util.List;
 
 @Service
